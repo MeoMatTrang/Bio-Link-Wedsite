@@ -36,6 +36,8 @@ p {
 }
 @media only screen and (min-width:472px) {
     .links {
+        width: 100px;
+        height: 40px;
         color: rgba(240, 248, 255);
         text-decoration: none;
         padding: 7px;
